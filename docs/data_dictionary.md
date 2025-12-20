@@ -1,6 +1,8 @@
 # Data Dictionary – Predictive Maintenance BI
 
-## Fact_MachineEvents
+## Clean_Dataset (Fact_MachineEvents)
+
+The file `clean_dataset.csv` contains the same fields as the `Fact_MachineEvents` table below.
 
 - **EventID**: Surrogate key for each machine reading (integer).
 - **DateID**: Foreign key to Dim_Date (YYYYMMDD integer).
