@@ -124,10 +124,6 @@ Successful implementation is expected to enable:
 
 ---
 
-**Proposed by:** Roua Smida, [Teammate 2], [Teammate 3]  
-**Institution:** Tunis Business School  
-**Date:** December 15, 2025
-
 **Project Team:**  Roua Smida, Rooya Jelassi, Mohamed Al Aziz Shabou, Mohamed Nidhal El Moulaa  
 **Institution:** Tunis Business School  
 **Submitted update:** January ,4 2026
