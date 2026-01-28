@@ -45,7 +45,7 @@ The proposed BI solution will investigate **ten key questions**:
 2. Which product types (L, M, H) exhibit higher failure rates during production?
 3. Which machines or production lines experience more frequent failures?
 4. Under which operating conditions (temperature, torque, speed, tool wear) do failures tend to occur?
-5. What operational parameters distinguish failed from normal cycles—specifically temperature and tool wear?
+5. What are the temperature and tool wear differences between failed and normal cycles?
 6. How does the failure rate trend over time (daily, monthly)?
 7. Are there identifiable temperature or tool-wear thresholds where failure probability increases?
 8. How do failures distribute across different time periods (daily, hourly)?
