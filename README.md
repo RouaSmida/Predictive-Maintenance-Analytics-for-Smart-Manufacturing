@@ -15,9 +15,9 @@ A Business Intelligence solution analyzing predictive maintenance data from CNC 
 
 | Name | Responsibilities |
 |------|------------------|
-| Roua Smida | Use Case Proposal, ETL Pipeline, Data Dictionary, Insights Report |
+| Roua Smida | Use Case Proposal, ETL Pipeline, Data Dictionary |
 | Rooya Jelassi | Data Modeling, DAX Measures |
-| Mohamed Al Aziz Shabou | Dashboard Development |
+| Mohamed Al Aziz Shabou | Insights Report |
 | Mohamed Nidhal El Moulaa | Dashboard Development |
 
 ## 🔧 Technical Stack
